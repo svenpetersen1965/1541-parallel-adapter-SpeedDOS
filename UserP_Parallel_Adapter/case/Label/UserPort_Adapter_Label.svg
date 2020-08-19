@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="UserPort_Adapter_Label.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path4749"
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path4752"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4754"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4756"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4342703"
+     inkscape:cx="122.81383"
+     inkscape:cy="956.91146"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path4766"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       d="m -53.407873,255.26758 a 1.0000001,1.0000001 0 0 0 -1,1.00002"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4768"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       d="m -52.407873,256.2676 a 1.0000001,1.0000001 0 0 0 -1,-1.00002"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4772"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       d="m -52.407873,256.2676 a 1.0000001,1.0000001 0 0 0 -1,-1.00002"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4776"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       d="m -52.407873,256.2676 a 1.0000001,1.0000001 0 0 0 -1,-1.00002"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4780"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       d="m -52.407873,256.2676 a 1.0000001,1.0000001 0 0 0 -1,-1.00002"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4784"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       d="m -52.407873,256.2676 a 1.0000001,1.0000001 0 0 0 -1,-1.00002"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4788"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       d="m -52.407873,256.2676 a 1.0000001,1.0000001 0 0 0 -1,-1.00002"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4792"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332"
+       d="m -52.407873,256.2676 a 1.0000001,1.0000001 0 0 0 -1,-1.00002"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.865578"
+       y="18.857557"
+       id="text4972"><tspan
+         sodipodi:role="line"
+         id="tspan4970"
+         x="21.865578"
+         y="21.396795"
+         style="stroke-width:0.26458332"></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5014"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion5016"><rect
+           id="rect5018"
+           width="296.39273"
+           height="117.6944"
+           x="40.05307"
+           y="31.63838" /></flowRegion><flowPara
+         id="flowPara5020"></flowPara></flowRoot>    <g
+       id="g5066">
+      <text
+         id="text4964"
+         y="32.461098"
+         x="39.151768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+           y="32.461098"
+           x="39.151768"
+           id="tspan4962"
+           sodipodi:role="line">THIS SIDE UP!</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 19.249535,32.104721 v -17"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4770" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 19.249535,32.104721 a 1.9999999,1.9999999 0 0 0 1.999999,2.000002"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4774" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 81.249535,34.104723 H 21.249534"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4778" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 81.249535,34.104723 a 1.9999999,1.9999999 0 0 0 1.999998,-2.000002"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4782" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 83.249533,15.104721 v 17"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4786" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 83.249533,15.104721 A 1.9999999,1.9999999 0 0 0 81.249535,13.104722"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4790" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 21.249534,13.104722 H 81.249535"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4794" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 21.249534,13.104722 a 1.9999999,1.9999999 0 0 0 -1.999999,1.999999"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4796" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 67.249534,20.104722 a 2.0000001,2.0000001 0 1 0 -4,0 2.0000001,2.0000001 0 1 0 4,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4816" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 62.009535,28.308522 H 40.489536"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4818" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 40.489536,28.308522 v -10.4076"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4820" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 40.489536,17.900922 H 62.009535"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4822" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 62.009535,17.900922 v 10.4076"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4824" />
+      <text
+         id="text4968"
+         y="21.163584"
+         x="68.438225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+           y="21.163584"
+           x="68.438225"
+           id="tspan4966"
+           sodipodi:role="line">RESET</tspan></text>
+      <text
+         id="text4976"
+         y="16.705585"
+         x="27.182236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="16.705585"
+           x="27.182236"
+           id="tspan4974"
+           sodipodi:role="line"><tspan
+   id="tspan5008"
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.88055563px;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Medium'">1541 Parallel Interface</tspan> </tspan></text>
+      <text
+         id="text5024"
+         y="22.314148"
+         x="20.379568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="22.314148"
+           x="20.379568"
+           id="tspan5022"
+           sodipodi:role="line">for</tspan><tspan
+           id="tspan5026"
+           style="stroke-width:0.26458332"
+           y="25.489147"
+           x="20.379568"
+           sodipodi:role="line">SpeedDOS</tspan></text>
+    </g>
+  </g>
+</svg>

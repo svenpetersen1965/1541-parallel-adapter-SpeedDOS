@@ -1,0 +1,1 @@
+This rom is working in my 1541-II.
