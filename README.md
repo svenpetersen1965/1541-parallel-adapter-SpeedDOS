@@ -13,3 +13,7 @@ There are two different VIA adapters for the 1541 and a low profile one for the 
 
 <img src="https://github.com/svenpetersen1965/1541-parallel-adapter-SpeedDOS/blob/master/UserP_Parallel_Adapter/Rev.%200/pictures/5488_-_Parallel_Adapter_1541-II.JPG" width="300" alt="SpeedDOS VIA adapter 1541">
 
+BOM Values:
+* 1541 Adapter (cable included): 4.91€ (28.06.2020)
+* 1541-II Adapter (cable included): 3.30€ (10.12.2020)
+* User Port Adapter (no case): 4.65€ (28.06.2020)
